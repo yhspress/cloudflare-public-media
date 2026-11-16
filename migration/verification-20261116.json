@@ -7,7 +7,13 @@
   "http_200_images": 266,
   "sha256_matches": 266,
   "image_commit": "382138fd26c2f97c7c38f3e4c2f4453093187e3f",
-  "r2_deletion": "not_performed_pending_action_time_confirmation",
+  "r2_deletion": "266 approved source objects deleted; both bucket object listings empty",
   "redirect_status": 302,
-  "rollback": "Disable only the public_media_github_20261116 rule while source objects still exist. After source deletion, restore exact files and keys from manifest before disabling the rule."
+  "rollback": "Disable only the public_media_github_20261116 rule while source objects still exist. After source deletion, restore exact files and keys from manifest before disabling the rule.",
+  "post_delete_verification": {
+    "total": 266,
+    "http200": 266,
+    "github_redirects": 266,
+    "sha256_matches": 266
+  }
 }
