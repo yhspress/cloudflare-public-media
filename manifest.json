@@ -1,0 +1,2136 @@
+{
+  "date_kst": "2026-11-16",
+  "visibility_basis": "Only images already served by existing public custom domains; no private bucket data or credentials",
+  "count": 266,
+  "bytes": 272559595,
+  "objects": [
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-23/2026-08-23-account_a-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-23/2026-08-23-account_a-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-23__2026-08-23-account_a-07-07.jpg",
+      "bytes": 332589,
+      "sha256": "946b8179c11888e295702164456fdd64bb6bc93ad74724bf775ed20182c99571"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-23/2026-08-23-account_a-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-23/2026-08-23-account_a-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-23__2026-08-23-account_a-23-07.jpg",
+      "bytes": 253346,
+      "sha256": "b43f10c20f8fb14b23bce619a60e06c943450eb59630a8b5fd1a42f823e58a10"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-07-07.jpg",
+      "bytes": 426451,
+      "sha256": "3209e13b33134c912f47f147406de27919bcd3ea9ba3aec91f801d007eb6c5ba"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-08-37.jpg",
+      "bytes": 457579,
+      "sha256": "7b288c5d5e491d0b8c92cecfe3d93c3984468667065755aadd7f8417235c788d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-18-07.jpg",
+      "bytes": 434827,
+      "sha256": "280aebb8cab03d62d19e6cbdfddbc2d2c24addebfffdf99c8b829cfd4429a905"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-19-07.jpg",
+      "bytes": 396647,
+      "sha256": "566cbc4c6306ff6f07a7e6310dbc2881f64f5a6fe6bf8583470effcb94c7645f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-20-07.jpg",
+      "bytes": 351438,
+      "sha256": "4592017cf3c153b2ded45c2016b3bc69bc2e44db68e0d74de44d30f97197690b"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-22-07.jpg",
+      "bytes": 237538,
+      "sha256": "241c2f1a3922b2c6988032f5ecfde78df24221f83a538c8bdce9fbc00100f8ca"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_a-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_a-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_a-23-07.jpg",
+      "bytes": 263162,
+      "sha256": "fa0a8a6de5e775c2fd0badb2a5068588d9f1135605d8a49c86ff8ac502122c44"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-07-07.jpg",
+      "bytes": 435320,
+      "sha256": "203099ad8e7bef2ae1355df5f6391459dfd815dd7b0fe070b10d53753ba1dee5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-08-37.jpg",
+      "bytes": 330148,
+      "sha256": "6468c65a495bd74f0ada924088efbbd09d0a754b424b4432a2e7077f6a4524f4"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-18-07.jpg",
+      "bytes": 497406,
+      "sha256": "a7990e8fa048ea1409f18a431e4a406cd351586fe1adbf972c9cf0a1b1588bcb"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-19-07.jpg",
+      "bytes": 358935,
+      "sha256": "e952b53b49f766e3489cdf0de53523983b3612af584288f50c11ce1a70b4c363"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-20-07.jpg",
+      "bytes": 359501,
+      "sha256": "fa77b6555bf800abbf33a642f7d482d1dd9c66320d50ec6041d72796fda15df4"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-22-07.jpg",
+      "bytes": 197099,
+      "sha256": "bba655471acb9b4dcd1627c9ee21b2e30f0dbd5ac4fe3dc73c80cbeb48f51f00"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-24/2026-08-24-account_b-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-24/2026-08-24-account_b-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-24__2026-08-24-account_b-23-07.jpg",
+      "bytes": 260272,
+      "sha256": "7efdc3fb9e2cf6fa07cf9e34cec78917e3297b1bcfef199ff68e11e9c75bcd23"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-07-07.jpg",
+      "bytes": 448037,
+      "sha256": "60519cd4a41889c498035d99894863de0124d1585bf45741ab777b2f9b13a50e"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-08-37.jpg",
+      "bytes": 427966,
+      "sha256": "94e8de9beee8abfa2bebd39ca2284dcaf8582e9ec12261f7b1de6d75c6455ed5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-17-07.jpg",
+      "bytes": 394380,
+      "sha256": "7f21b257fbb20621e09990589cfaec841810bf476c797a20744e4ccf567ac5a2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-18-07.jpg",
+      "bytes": 460564,
+      "sha256": "50090ce5f5a13b34aad2705c1c93f42337036d1aff885fe3aa1d87f65e513ea6"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-19-07.jpg",
+      "bytes": 338503,
+      "sha256": "8bce1aa9b27efb0aac85ab3911e403caa7982e98a71f0410572dbc98d0e76f51"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-20-07.jpg",
+      "bytes": 297498,
+      "sha256": "3e84d5d48e7b50e74bc9e95a027ab2fa9457a8ad4bbe85293b608c3fdb7440cf"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-22-07.jpg",
+      "bytes": 377977,
+      "sha256": "39bb421173f9084d5cb7fa1444801ca66b3475cb984a5130e193f72c74b693f8"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_a-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_a-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_a-23-07.jpg",
+      "bytes": 289373,
+      "sha256": "87aaf9f9f1bc1b387648b7bc769c5e85694057febeb620eeb7982ffcce1bf8a5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-07-07.jpg",
+      "bytes": 420020,
+      "sha256": "78cac5d087995edb3c5a2771f211e7ae6e012b9ddc432fbf642723dbca55bba4"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-08-37.jpg",
+      "bytes": 423678,
+      "sha256": "b230db7e40e0394a02961849df7c6e8d7fbc47fd0231453e0158e3a35f6d9cf2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-17-07.jpg",
+      "bytes": 354856,
+      "sha256": "b4cedfdf3b1b33007160a45d83cdbe395c488e356c364079b25fb7bdbecb1d94"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-18-07.jpg",
+      "bytes": 399394,
+      "sha256": "57f0bddeb14b28ad6e635f0a02715692e7cdda813e71fc107e4524cea1903512"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-19-07.jpg",
+      "bytes": 315873,
+      "sha256": "b61dda557fe68fe39201aaa64826c6cd06931fe99a495fd8c66ffac82363292b"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-20-07.jpg",
+      "bytes": 306255,
+      "sha256": "097c6f2872362437c06e51519172dca5ce810e25b262030b9b6b613bce169870"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-22-07.jpg",
+      "bytes": 410367,
+      "sha256": "5dfe07edd54801b8eed50043a0cacbc5d68f838a98bf41c4d7365b2256fd36b1"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-25/2026-08-25-account_b-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-25/2026-08-25-account_b-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-25__2026-08-25-account_b-23-07.jpg",
+      "bytes": 341387,
+      "sha256": "d93e42a3acdd7ec0c5085e7a2c50c19897184d7de746d99ecdb753c4dede287f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-07-07.jpg",
+      "bytes": 380957,
+      "sha256": "73744c76e2deb9997d35688860a7d873852885f94fdc8fac6cb8adc72144241e"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-08-37.jpg",
+      "bytes": 351343,
+      "sha256": "2b98d51c65c1fafde77e7b4ad095e67e6472eb0d4536891274e51f3a8fcab080"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-17-07.jpg",
+      "bytes": 268735,
+      "sha256": "d3f049de08f769421c4d45eaa19a11e56c457bcaa2c77ea45663972962fff1a5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-18-07.jpg",
+      "bytes": 462704,
+      "sha256": "0c49b0e99be2bf259990ed90ed7d705b8d81c49f29c6dc8acaee8d04ef4d36b1"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-19-07.jpg",
+      "bytes": 423178,
+      "sha256": "51c44ecb443373a7b37f9bb7b89f671e7b4ab97e90a33de5ac377c8d126f9dda"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-20-07.jpg",
+      "bytes": 236325,
+      "sha256": "4f6917c6d26b9acdf396d4ee350279dac102e9734f059fdb16a24c7735faaf5a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-22-07.jpg",
+      "bytes": 427923,
+      "sha256": "4a012467addc29c68cf9ae963a59c8e3b181a96257639820d905db8f18e87640"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_a-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_a-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_a-23-07.jpg",
+      "bytes": 236938,
+      "sha256": "3b8ff0d2f6f6c3470426a9c7943e8732e451c53b7b0530827fa890bb5a508e0f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-07-07.jpg",
+      "bytes": 462572,
+      "sha256": "ddca8fd6c94e24a0b363b296cf2da665aaeb045e55846d6bb7bac25e99d37d7b"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-08-37.jpg",
+      "bytes": 352779,
+      "sha256": "3fb61e2ca47997d8ebe2e36c736f4f0d00959337967f535a36b66bc2cd882872"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-17-07.jpg",
+      "bytes": 423003,
+      "sha256": "12b83e2db07a96b9e4bb6570c305526af05d472654979a262e1cbbb17e488939"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-18-07.jpg",
+      "bytes": 442357,
+      "sha256": "f7f97560a9e2b615bf88dd052a7fbdbc5815a101324cd5a205df714442e840ab"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-19-07.jpg",
+      "bytes": 384738,
+      "sha256": "48dd9646f15f0dffdbdc8a0fc04b47c02f1a20115692a8482d3a6e8546a3a979"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-20-07.jpg",
+      "bytes": 263883,
+      "sha256": "df43ac4d91521c6fb3dfef1fdb7be8acb91bcc0c37644d38059cefe6bce7d624"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-22-07.jpg",
+      "bytes": 441314,
+      "sha256": "5fc1702e10eb0b76f503e3cabafbaf68cda380cbedf63102ac6c9ac9906e9d07"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-26/2026-08-26-account_b-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-26/2026-08-26-account_b-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-26__2026-08-26-account_b-23-07.jpg",
+      "bytes": 313510,
+      "sha256": "8a25b9c1fbd30cf183a027d4eb3b3e16a0e814ade76c5434414a41a5118752a8"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-07-07.jpg",
+      "bytes": 416196,
+      "sha256": "d6061aa30edeec3901f550fc24c3873be93f4301e86977699fe02136748fda4a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-08-37.jpg",
+      "bytes": 338541,
+      "sha256": "6d876300e24f78124a2f1230be2830d5606fe2988210d0e045d3f99fe87133a8"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-10-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-10-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-10-07.jpg",
+      "bytes": 325560,
+      "sha256": "bd5b761bab90454dad59dda630f611342589c3ad7f0e52bbbc685260480c84d5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-17-07.jpg",
+      "bytes": 338476,
+      "sha256": "5a6f970cc39d47345f8b97d1b7f25e00c648dd8747015d4c8de097d8d95f688c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-18-07.jpg",
+      "bytes": 420919,
+      "sha256": "65aeb2ac75f3e74c8591f84ea62eb78ee996e0588e8ee8e01b368334de337430"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-19-07.jpg",
+      "bytes": 418746,
+      "sha256": "ad0fe48d67090f2371d0e9599c5bcfeab8ecb6d56bba7744939b98bc725b2d99"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-20-07.jpg",
+      "bytes": 289361,
+      "sha256": "dbf1cf271a7c14b11c26631466b10ee68b4a3ce31703543d8001a03e0909c907"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-21-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-21-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-21-07.jpg",
+      "bytes": 323772,
+      "sha256": "0e29985080fea5c725467f299c4e17f767ffd71c3e457db2ea41c61f684f0fcd"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-22-07.jpg",
+      "bytes": 345336,
+      "sha256": "9a16bfb2c98c64b17105e3c0938875d85399a083f117742eb5261fc442f84d41"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_a-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_a-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_a-23-07.jpg",
+      "bytes": 376514,
+      "sha256": "5f0310600dc3c1559acf04df164c76bdb1c7f2c679f4ac706a80e6231556194f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-07-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-07-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-07-07.jpg",
+      "bytes": 461189,
+      "sha256": "edfcb672922e0b116cdab93af838a53f3dd520547c3f95cd99a1804c26d3c8ef"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-08-37.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-08-37.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-08-37.jpg",
+      "bytes": 417901,
+      "sha256": "da94275fb4393574c56ce5c38241a7f1f2b1f9794df62d529f935d9e145b1229"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-10-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-10-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-10-07.jpg",
+      "bytes": 270730,
+      "sha256": "9a0158967fac2aa97ac8bd0aee58399d82c55f9468f8a45802ede7ea9daf7509"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-17-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-17-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-17-07.jpg",
+      "bytes": 394175,
+      "sha256": "cd74f77a73587103f88ee062c4aa474e9ae5eaac0175458c5ada4e183ba61c0a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-18-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-18-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-18-07.jpg",
+      "bytes": 498425,
+      "sha256": "5636963cb5efcc974df79adb3d9a4b588ed12a9a52599d28c391e6e966cf343e"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-19-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-19-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-19-07.jpg",
+      "bytes": 430648,
+      "sha256": "51ecf8a9533e7506756983db149aceaeba03d694ff1f47e331c2c00350cc6e6d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-20-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-20-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-20-07.jpg",
+      "bytes": 268603,
+      "sha256": "187fbdef2947341df8fbebd806de226d30fbead45dcbd33e5742a3298119457d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-21-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-21-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-21-07.jpg",
+      "bytes": 300921,
+      "sha256": "cce57b5802f54c7d5ddb5dc55503786c88e1fe62b749413c0fdc6bc25456a6bb"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-22-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-22-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-22-07.jpg",
+      "bytes": 285378,
+      "sha256": "51604b65d5d832e6180a0a617b070bb041bb17d297883d05aa1673bb1d549a32"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-account_b-23-07.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-account_b-23-07.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-account_b-23-07.jpg",
+      "bytes": 304673,
+      "sha256": "1353db16552fb2c2af3e87b47d5de427bf9eb4d854c705eebf3ce898910e2f5f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-01-5e3ff1be845e.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-01-5e3ff1be845e.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_a-01-5e3ff1be845e.jpg",
+      "bytes": 376960,
+      "sha256": "5e3ff1be845e94918d89c3e704746695d65b7f417aae48d0f8032765f032b78c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-02-bc8ac5b0c694.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-02-bc8ac5b0c694.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_a-02-bc8ac5b0c694.jpg",
+      "bytes": 254829,
+      "sha256": "bc8ac5b0c694f0cb66e00b3219444dc60e940233098832ed6e7fff2baec197ba"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-03-23db955a1d1b.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-03-23db955a1d1b.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_a-03-23db955a1d1b.jpg",
+      "bytes": 451669,
+      "sha256": "23db955a1d1b85563034406fcf5b5c05f86749ac4c8574debe90fa54eeea93f4"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-04-fde0f448a536.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-04-fde0f448a536.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_a-04-fde0f448a536.jpg",
+      "bytes": 262228,
+      "sha256": "fde0f448a536c62cc80b3daf320927b79dff2a3c35aa87146294ce2a8485369d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-05-9ebd991228b6.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_a-05-9ebd991228b6.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_a-05-9ebd991228b6.jpg",
+      "bytes": 383502,
+      "sha256": "9ebd991228b679b9b3cc5cf6f02bb8c12aec20d557a9adc0b0fa72c9bdca51ec"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-01-951ca8c79b49.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-01-951ca8c79b49.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_b-01-951ca8c79b49.jpg",
+      "bytes": 605650,
+      "sha256": "951ca8c79b49dee925130235ef026107684704f3b1553d947ababc9a97c76cf2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-02-5c765afc3872.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-02-5c765afc3872.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_b-02-5c765afc3872.jpg",
+      "bytes": 272854,
+      "sha256": "5c765afc3872c0fc6b8ae0b0ee4159c32457940ebcd22c943da1113202dc990b"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-03-189a93ccc589.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-03-189a93ccc589.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_b-03-189a93ccc589.jpg",
+      "bytes": 380892,
+      "sha256": "189a93ccc589b6e4ded56ff79fe6eea8798cb3291d5be7f793c115a4337cd490"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-04-b47b62b300d5.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-04-b47b62b300d5.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_b-04-b47b62b300d5.jpg",
+      "bytes": 356048,
+      "sha256": "b47b62b300d53e8755d10aaf33c8a6df1af184f2fb1f2716b24e6bded001d4fa"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-05-bacfd39deb84.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-27/2026-08-27-manual-33041732525-account_b-05-bacfd39deb84.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-27__2026-08-27-manual-33041732525-account_b-05-bacfd39deb84.jpg",
+      "bytes": 303714,
+      "sha256": "bacfd39deb84bcb15ac52602bfc2a9dfd5371a49f010295d6412077966691f55"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-07-07-56141acfb423.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-07-07-56141acfb423.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-07-07-56141acfb423.jpg",
+      "bytes": 572103,
+      "sha256": "56141acfb42383f522bda64b9c5ba0695b547957c4df8c0f1ea23116f943fa64"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-08-37-329c25da8b65.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-08-37-329c25da8b65.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-08-37-329c25da8b65.jpg",
+      "bytes": 514184,
+      "sha256": "329c25da8b651f4c9535e7a4ab38a9614edde79ba43de86daf7d538b7508e411"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-10-07-aeaf42a0d932.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-10-07-aeaf42a0d932.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-10-07-aeaf42a0d932.jpg",
+      "bytes": 444237,
+      "sha256": "aeaf42a0d9326ea2a9e11a5203cba4a9b076563ac7c131f770a8828a4455374d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-17-07-83eb80ee318f.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-17-07-83eb80ee318f.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-17-07-83eb80ee318f.jpg",
+      "bytes": 317621,
+      "sha256": "83eb80ee318fe050f8789507297097886ad5c4ba44267db7da4c11f6e22acfc1"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-18-07-bb1384cd29a8.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-18-07-bb1384cd29a8.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-18-07-bb1384cd29a8.jpg",
+      "bytes": 363062,
+      "sha256": "bb1384cd29a842af555df020f792f73d4464fd2c22195237981331b752e10789"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-19-07-a2b3cf8ed422.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-19-07-a2b3cf8ed422.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-19-07-a2b3cf8ed422.jpg",
+      "bytes": 392666,
+      "sha256": "a2b3cf8ed4224bf99884ac51c6e17f0ae974af3a1927e5c4a17e2439a66d5215"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-20-07-0328e5c57fd4.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-20-07-0328e5c57fd4.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-20-07-0328e5c57fd4.jpg",
+      "bytes": 334247,
+      "sha256": "0328e5c57fd4da8cf52e64df1628358e90e7d1d858ea7ebf4d832dbf0a3d7ded"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-21-07-2817836b15d6.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-21-07-2817836b15d6.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-21-07-2817836b15d6.jpg",
+      "bytes": 513950,
+      "sha256": "2817836b15d6a23fba13f74751ebbb44b0733d84936b08da668b4ae9d7df1e7a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_a-22-07-af85e7f3313e.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_a-22-07-af85e7f3313e.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_a-22-07-af85e7f3313e.jpg",
+      "bytes": 427616,
+      "sha256": "af85e7f3313ea08b39b3adbc83971788f439681ed73cfe05d878b22676d837bb"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-07-07-92d92b232736.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-07-07-92d92b232736.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-07-07-92d92b232736.jpg",
+      "bytes": 552761,
+      "sha256": "92d92b232736c74dbf8cae7f6294e69c63883bc5bc6ff283fc4c02c5d8fcd1b5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-08-37-f201cbe628bf.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-08-37-f201cbe628bf.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-08-37-f201cbe628bf.jpg",
+      "bytes": 331609,
+      "sha256": "f201cbe628bff6211274d6f739d7d3d3cd7867b0f500dffd9227da3b7493f057"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-10-07-16e5d12e5756.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-10-07-16e5d12e5756.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-10-07-16e5d12e5756.jpg",
+      "bytes": 473801,
+      "sha256": "16e5d12e5756d6fbda8de68ee222b4433f6ee44caf15d9fe0928219c07bdb2df"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-17-07-f343c4bc88e2.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-17-07-f343c4bc88e2.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-17-07-f343c4bc88e2.jpg",
+      "bytes": 323832,
+      "sha256": "f343c4bc88e2fae0256f30c57779c3f5dd0c330f1c37759a7e53fee77595ce0a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-18-07-2648062e96a5.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-18-07-2648062e96a5.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-18-07-2648062e96a5.jpg",
+      "bytes": 428375,
+      "sha256": "2648062e96a55eed6039f83b0911526a38a6224dc3943014bea0f35503f73f70"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-19-07-d25aafa75056.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-19-07-d25aafa75056.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-19-07-d25aafa75056.jpg",
+      "bytes": 361029,
+      "sha256": "d25aafa7505653d40b55b401761f6674ea0451de1df02dd8b9e5786047329fe2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-20-07-b59f17580d79.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-20-07-b59f17580d79.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-20-07-b59f17580d79.jpg",
+      "bytes": 197192,
+      "sha256": "b59f17580d79512db1cc50443296e62bf502a696567087771dd071b2fde87e0d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-21-07-70352bfa1b7a.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-21-07-70352bfa1b7a.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-21-07-70352bfa1b7a.jpg",
+      "bytes": 550341,
+      "sha256": "70352bfa1b7a3be7706ce9f46d28241e03d9a2986cd598db0b61e6b63b0bd99c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-28/2026-08-28-account_b-22-07-2c7cab20fa19.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-28/2026-08-28-account_b-22-07-2c7cab20fa19.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-28__2026-08-28-account_b-22-07-2c7cab20fa19.jpg",
+      "bytes": 354716,
+      "sha256": "2c7cab20fa19a7fd93df21c353bca8220f28b41217dfc25520f97b29bcc94ea2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-07-07-d9ad6ffe6785.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-07-07-d9ad6ffe6785.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-07-07-d9ad6ffe6785.jpg",
+      "bytes": 566560,
+      "sha256": "d9ad6ffe6785231b772d1bc7db421076a69a8820c69ff7fc1ab8d56b2de8caf5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-08-37-aa30a601959d.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-08-37-aa30a601959d.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-08-37-aa30a601959d.jpg",
+      "bytes": 360580,
+      "sha256": "aa30a601959de74f6b6cdf802a0b2b5daa94526d6f04e2f7251999fdb4a87b79"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-10-07-f664f47dbba4.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-10-07-f664f47dbba4.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-10-07-f664f47dbba4.jpg",
+      "bytes": 363586,
+      "sha256": "f664f47dbba49bd526a51bbdba83d238e8645809ac83faf72e69a974f497b121"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-17-07-7480b573141d.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-17-07-7480b573141d.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-17-07-7480b573141d.jpg",
+      "bytes": 395004,
+      "sha256": "7480b573141da70dc961a0523f578320433b323363e3777818eb2be1e20989a9"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-18-07-4c846d74659e.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-18-07-4c846d74659e.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-18-07-4c846d74659e.jpg",
+      "bytes": 686224,
+      "sha256": "4c846d74659ede251dfdc91add4d9d995537e599b1c6f809c2395262ec1be31d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-19-07-be6724638c75.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-19-07-be6724638c75.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-19-07-be6724638c75.jpg",
+      "bytes": 303851,
+      "sha256": "be6724638c75aa60e7f52caba5e01095058acd27da2a3cea5f954cbf56fc97d3"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-20-07-400065e385b2.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-20-07-400065e385b2.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-20-07-400065e385b2.jpg",
+      "bytes": 270051,
+      "sha256": "400065e385b2c69419b22d09f114f4c44bc67838b53477d331b2987fea980803"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_a-21-07-f68934df3a93.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_a-21-07-f68934df3a93.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_a-21-07-f68934df3a93.jpg",
+      "bytes": 482594,
+      "sha256": "f68934df3a9344eee8c58b9445d006dc966a45395a05fec16bb92d4b9c513921"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-07-07-60138832fe44.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-07-07-60138832fe44.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-07-07-60138832fe44.jpg",
+      "bytes": 341259,
+      "sha256": "60138832fe44168feeb43c207237786f422a2975b5b50eae8a44a5a55eb3ea2a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-08-37-c1139f00fc95.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-08-37-c1139f00fc95.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-08-37-c1139f00fc95.jpg",
+      "bytes": 398666,
+      "sha256": "c1139f00fc95544fe9f8eb1668c03e7d5e7c3557717515b3da9c51affacb11e0"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-10-07-38f40fd99bd8.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-10-07-38f40fd99bd8.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-10-07-38f40fd99bd8.jpg",
+      "bytes": 452612,
+      "sha256": "38f40fd99bd83c441d7c260eb792de260e61f6b22c523bd489cce3488d5edfdf"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-17-07-ca48693e7eea.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-17-07-ca48693e7eea.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-17-07-ca48693e7eea.jpg",
+      "bytes": 250588,
+      "sha256": "ca48693e7eea8ab8c7bbf54b74eebe68ece22f6a6746dfbbf54c8843a8ebbf89"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-18-07-b1f5ccbb0ab2.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-18-07-b1f5ccbb0ab2.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-18-07-b1f5ccbb0ab2.jpg",
+      "bytes": 481259,
+      "sha256": "b1f5ccbb0ab2c6dec79e49d0865caee3ccd98d4caf916389a79bba81438089b9"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-19-07-1bd581aead69.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-19-07-1bd581aead69.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-19-07-1bd581aead69.jpg",
+      "bytes": 299912,
+      "sha256": "1bd581aead698c9f981bf51c1ac527e2da49329e4f9fef317f5eca26da657a7f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-20-07-841db3d4c68c.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-20-07-841db3d4c68c.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-20-07-841db3d4c68c.jpg",
+      "bytes": 262819,
+      "sha256": "841db3d4c68cac2b3fd4b9d8f00f7a6977cb4c45260004c1d408199cdb52e14a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-account_b-21-07-ec92403d3b4b.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-account_b-21-07-ec92403d3b4b.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-account_b-21-07-ec92403d3b4b.jpg",
+      "bytes": 233237,
+      "sha256": "ec92403d3b4b1bd5025e3def0b75b45b67351806216acc1be60f91fe40805ecd"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-manual-33186226253-account_a-01-e677f83c5548.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-manual-33186226253-account_a-01-e677f83c5548.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-manual-33186226253-account_a-01-e677f83c5548.jpg",
+      "bytes": 673284,
+      "sha256": "e677f83c55486bd893cfbe8a7a0564df1dd98665efce29585b2c449649938004"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-29/2026-08-29-manual-33186226253-account_b-01-871ce3c46115.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-29/2026-08-29-manual-33186226253-account_b-01-871ce3c46115.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-29__2026-08-29-manual-33186226253-account_b-01-871ce3c46115.jpg",
+      "bytes": 349917,
+      "sha256": "871ce3c46115f80d63a117800edc890ce2055b863f7abf5ab2b2e099737e88d0"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-30/2026-08-30-account_b-22-07-b46d7458c846.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-30/2026-08-30-account_b-22-07-b46d7458c846.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-30__2026-08-30-account_b-22-07-b46d7458c846.jpg",
+      "bytes": 337427,
+      "sha256": "b46d7458c84656219166f34133ac39cd55ea42520278220767ed5f1f1812aa20"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-08-30/2026-08-30-account_b-23-07-821fa15db7c1.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-08-30/2026-08-30-account_b-23-07-821fa15db7c1.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-08-30__2026-08-30-account_b-23-07-821fa15db7c1.jpg",
+      "bytes": 201678,
+      "sha256": "821fa15db7c1d0b83c60db4e890b4f5cd35d09e09efdbaf4cef4b65a6694e375"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-01/2026-09-01-manual-33453529901-account_a-01-40b3074d2d0f.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-01/2026-09-01-manual-33453529901-account_a-01-40b3074d2d0f.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-01__2026-09-01-manual-33453529901-account_a-01-40b3074d2d0f.jpg",
+      "bytes": 558146,
+      "sha256": "40b3074d2d0fe3f038bd9e64a8b937816a7043fe74f4f555b31cd1ef8969ffbf"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-01/2026-09-01-manual-33453529901-account_a-02-f55326e65037.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-01/2026-09-01-manual-33453529901-account_a-02-f55326e65037.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-01__2026-09-01-manual-33453529901-account_a-02-f55326e65037.jpg",
+      "bytes": 360049,
+      "sha256": "f55326e65037437f4d1cc964e60580823e249e1627b4aa7e52b460c07247965c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-01/2026-09-01-manual-33453529901-account_b-01-ec65d4d4cf47.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-01/2026-09-01-manual-33453529901-account_b-01-ec65d4d4cf47.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-01__2026-09-01-manual-33453529901-account_b-01-ec65d4d4cf47.jpg",
+      "bytes": 521963,
+      "sha256": "ec65d4d4cf47f47cf1663e81fbd34904b3b6c477dfd8ffc47a3d0bf8a3f73f02"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-01/2026-09-01-manual-33453529901-account_b-02-b12a87844a88.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-01/2026-09-01-manual-33453529901-account_b-02-b12a87844a88.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-01__2026-09-01-manual-33453529901-account_b-02-b12a87844a88.jpg",
+      "bytes": 344780,
+      "sha256": "b12a87844a889227aac55037cdfc1a3fcc58c2d78e135f0552801b120636c4c6"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_a-07-07-13bef9085f13.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_a-07-07-13bef9085f13.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_a-07-07-13bef9085f13.jpg",
+      "bytes": 364670,
+      "sha256": "13bef9085f136d912aa403e9958c7251080c464a987373eede4e8a444c3d3248"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_a-08-37-f4a4b9a626ec.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_a-08-37-f4a4b9a626ec.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_a-08-37-f4a4b9a626ec.jpg",
+      "bytes": 482057,
+      "sha256": "f4a4b9a626ec3dd095aca0f18df511a7480fa5f374e70cd9487fea23f3581112"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_a-10-07-7f15600ba5b2.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_a-10-07-7f15600ba5b2.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_a-10-07-7f15600ba5b2.jpg",
+      "bytes": 315068,
+      "sha256": "7f15600ba5b22841ac9478505a077422412fc7f43f289fe0cb1ca7955b66931b"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_b-07-07-e489932400d0.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_b-07-07-e489932400d0.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_b-07-07-e489932400d0.jpg",
+      "bytes": 387083,
+      "sha256": "e489932400d0c9e6bac4c892b40891b3ec747cc72e4bed15d3dddf795b8b32fa"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_b-08-37-65175217c33d.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_b-08-37-65175217c33d.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_b-08-37-65175217c33d.jpg",
+      "bytes": 444946,
+      "sha256": "65175217c33d16fcfdff895306407065bc963f9338ba7b7104ae68cd69f0d2d2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-03/2026-09-03-account_b-10-07-634594db5b0e.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-03/2026-09-03-account_b-10-07-634594db5b0e.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-03__2026-09-03-account_b-10-07-634594db5b0e.jpg",
+      "bytes": 316989,
+      "sha256": "634594db5b0ecda6814c469a8d68cc57d07eaff8de86a215e01bdc3c2b2214ed"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-04/2026-09-04-account_a-07-07-3afdd44db24b.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-04/2026-09-04-account_a-07-07-3afdd44db24b.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-04__2026-09-04-account_a-07-07-3afdd44db24b.jpg",
+      "bytes": 546324,
+      "sha256": "3afdd44db24b1073e0bc987f5c90e0b25ac07e4610c06a39de74c73d86eeacef"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-04/2026-09-04-account_a-07-07-c9b8717e7228.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-04/2026-09-04-account_a-07-07-c9b8717e7228.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-04__2026-09-04-account_a-07-07-c9b8717e7228.jpg",
+      "bytes": 420889,
+      "sha256": "c9b8717e72285aabb2be0cfa36caf5e3c775942fa53318ff594ba11ed55bf574"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-04/2026-09-04-account_a-08-37-847ac6b8c734.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-04/2026-09-04-account_a-08-37-847ac6b8c734.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-04__2026-09-04-account_a-08-37-847ac6b8c734.jpg",
+      "bytes": 298966,
+      "sha256": "847ac6b8c73452a7a673ccc040d978a451d7f376e06f55e3ee034db27dc7ad68"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-04/2026-09-04-account_a-10-07-1024456bda00.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-04/2026-09-04-account_a-10-07-1024456bda00.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-04__2026-09-04-account_a-10-07-1024456bda00.jpg",
+      "bytes": 358334,
+      "sha256": "1024456bda00f2689d4af443dc62b896a2d0293604460fedd966fecf28934c8d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-06/2026-09-06-manual-33975595101-account_a-01-81ac9dbfd3c4.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-06/2026-09-06-manual-33975595101-account_a-01-81ac9dbfd3c4.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-06__2026-09-06-manual-33975595101-account_a-01-81ac9dbfd3c4.jpg",
+      "bytes": 452209,
+      "sha256": "81ac9dbfd3c47d831eab4a8e690d7f3e519b172cc5f7603c7adecbd4a4344cf3"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_a-07-07-7d0c7401ab40.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_a-07-07-7d0c7401ab40.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_a-07-07-7d0c7401ab40.jpg",
+      "bytes": 303583,
+      "sha256": "7d0c7401ab40b3867681a9f64652c607e78a1114d5e4850031ed1e832485f4a3"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_a-08-37-0233a252cba3.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_a-08-37-0233a252cba3.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_a-08-37-0233a252cba3.jpg",
+      "bytes": 434896,
+      "sha256": "0233a252cba3f7efcaacf54d668d3f2ec1d2812036c0acf4e71b8fd07e995597"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_a-10-07-70abd95aac3f.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_a-10-07-70abd95aac3f.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_a-10-07-70abd95aac3f.jpg",
+      "bytes": 362574,
+      "sha256": "70abd95aac3fabd0528277efc83700fdf5267f93e32e8374a8d4b49c564898a4"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_b-07-07-4de4d61f6686.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_b-07-07-4de4d61f6686.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_b-07-07-4de4d61f6686.jpg",
+      "bytes": 252108,
+      "sha256": "4de4d61f66862965de67e2aca50fbd5a649e04c2906267ca535fee6a116aed35"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_b-08-37-7817e0df5584.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_b-08-37-7817e0df5584.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_b-08-37-7817e0df5584.jpg",
+      "bytes": 459345,
+      "sha256": "7817e0df55841a5ccd475ab5e635fe3204a9fa67f3f9ff89867dc0546b13df8c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-07/2026-09-07-account_b-10-07-336a6242ae84.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-07/2026-09-07-account_b-10-07-336a6242ae84.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-07__2026-09-07-account_b-10-07-336a6242ae84.jpg",
+      "bytes": 268584,
+      "sha256": "336a6242ae8419bc4f63e1e96d6594026f05e6240bfcd5bd8ce6e0726cb9cf0d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_a-07-07-d586b30fe855.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_a-07-07-d586b30fe855.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_a-07-07-d586b30fe855.jpg",
+      "bytes": 263441,
+      "sha256": "d586b30fe8550e8c345a3a6331eb4987f50880046707cac08c6a84b52720c700"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_a-08-37-3d66602079d9.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_a-08-37-3d66602079d9.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_a-08-37-3d66602079d9.jpg",
+      "bytes": 420517,
+      "sha256": "3d66602079d9822d02090af82a6ac63574fe6a6557a1c6668e9e5e3899a87821"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_a-10-07-e03d4090693c.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_a-10-07-e03d4090693c.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_a-10-07-e03d4090693c.jpg",
+      "bytes": 479449,
+      "sha256": "e03d4090693c35e95e8f6f9e18691b57ac41b49948117de884068a0dcf02f25c"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_b-07-07-7817fdfadf47.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_b-07-07-7817fdfadf47.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_b-07-07-7817fdfadf47.jpg",
+      "bytes": 326739,
+      "sha256": "7817fdfadf47b3618ac60bc387a5a938414e7e45f2f49eda08709e2d6727de12"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_b-08-37-0e407e034350.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_b-08-37-0e407e034350.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_b-08-37-0e407e034350.jpg",
+      "bytes": 387983,
+      "sha256": "0e407e03435095ac5bd53827ccd70de43d46fd276264037cce9f9c66b98f4bed"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-08/2026-09-08-account_b-10-07-f9e0b3b73c36.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-08/2026-09-08-account_b-10-07-f9e0b3b73c36.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-08__2026-09-08-account_b-10-07-f9e0b3b73c36.jpg",
+      "bytes": 325515,
+      "sha256": "f9e0b3b73c366910ade148ba4288a1ff055fcf033b46934d3fe1667d6ce063dd"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_a-07-07-febdd4cf8d9f.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_a-07-07-febdd4cf8d9f.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_a-07-07-febdd4cf8d9f.jpg",
+      "bytes": 276735,
+      "sha256": "febdd4cf8d9fe1fe8af11694d13cc85408b7aa8b91e19f3d163609a28a97f3ec"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_a-08-37-7ff296c78383.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_a-08-37-7ff296c78383.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_a-08-37-7ff296c78383.jpg",
+      "bytes": 284587,
+      "sha256": "7ff296c783832ae52ce0bd6a29fe43fab2b687feb63ce8062b285003d32c7634"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_a-10-07-738bb34424db.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_a-10-07-738bb34424db.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_a-10-07-738bb34424db.jpg",
+      "bytes": 587497,
+      "sha256": "738bb34424db03f3527e032de32a8b23f65620eef60c9907bb1aa817ae816eb5"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_b-07-07-dfe8c1fe38ed.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_b-07-07-dfe8c1fe38ed.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_b-07-07-dfe8c1fe38ed.jpg",
+      "bytes": 544336,
+      "sha256": "dfe8c1fe38ed3b41a95a5ab8414d76128faef5045a360415bd1267b7b84fed7a"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_b-08-37-360e0f16adfe.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_b-08-37-360e0f16adfe.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_b-08-37-360e0f16adfe.jpg",
+      "bytes": 528244,
+      "sha256": "360e0f16adfe51fb507a84ddadaf5cd69f85bcd12f6064d53490c522c7670ecf"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-09/2026-09-09-account_b-10-07-945fcc46aef8.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-09/2026-09-09-account_b-10-07-945fcc46aef8.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-09__2026-09-09-account_b-10-07-945fcc46aef8.jpg",
+      "bytes": 236048,
+      "sha256": "945fcc46aef8fecd90550995251fb9df1f9879679f057b1f4f26d580bb824099"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_a-07-07-6d4c572347b4.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_a-07-07-6d4c572347b4.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_a-07-07-6d4c572347b4.jpg",
+      "bytes": 266202,
+      "sha256": "6d4c572347b4791222dcb328fd29a6238dafe5ae06fce44097ea874232517be9"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_a-07-07-8cc5346e551a.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_a-07-07-8cc5346e551a.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_a-07-07-8cc5346e551a.jpg",
+      "bytes": 274340,
+      "sha256": "8cc5346e551a535067d87806a24c9837749c7a0b06f1a582845f9b5cbc42b2bf"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_a-08-37-17be33c697e3.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_a-08-37-17be33c697e3.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_a-08-37-17be33c697e3.jpg",
+      "bytes": 289931,
+      "sha256": "17be33c697e3216489a9feaba4bb787624c15cd348ee0d1bc75b611511f5cef3"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_a-10-07-9a02b0518499.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_a-10-07-9a02b0518499.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_a-10-07-9a02b0518499.jpg",
+      "bytes": 435463,
+      "sha256": "9a02b0518499f991bc94837c233a9783b24de9d73dc534705f0141c2bcf29953"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_b-07-07-cdebcb9876f6.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_b-07-07-cdebcb9876f6.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_b-07-07-cdebcb9876f6.jpg",
+      "bytes": 352179,
+      "sha256": "cdebcb9876f6b227c985851518d303c1cee20b2df99e35cad42da61ee063112d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_b-08-37-ea59a4dda2dd.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_b-08-37-ea59a4dda2dd.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_b-08-37-ea59a4dda2dd.jpg",
+      "bytes": 307847,
+      "sha256": "ea59a4dda2dd5c31da825a991a789be28be415762534bf9a461d07851db70f4f"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-10/2026-09-10-account_b-10-07-ae3b8cd88fca.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-10/2026-09-10-account_b-10-07-ae3b8cd88fca.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-10__2026-09-10-account_b-10-07-ae3b8cd88fca.jpg",
+      "bytes": 326477,
+      "sha256": "ae3b8cd88fcae025a1b35a7c7c28425765f55d1c24931578f615c3d542b391d2"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_a-07-07-2e47aeb8ea75.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_a-07-07-2e47aeb8ea75.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_a-07-07-2e47aeb8ea75.jpg",
+      "bytes": 230178,
+      "sha256": "2e47aeb8ea75a4dd7bca9446ed599167c429ab6844d074c9c24beab3514365d3"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_a-08-37-d5deb0bb7852.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_a-08-37-d5deb0bb7852.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_a-08-37-d5deb0bb7852.jpg",
+      "bytes": 278316,
+      "sha256": "d5deb0bb7852e14c445c8759a301ce790bebee3175fef9b9282c6b442a12d5d1"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_a-10-07-59ee67386ebd.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_a-10-07-59ee67386ebd.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_a-10-07-59ee67386ebd.jpg",
+      "bytes": 361161,
+      "sha256": "59ee67386ebd8b34d74b6fb9a249629a4053d58838769b15e647133be55664f0"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_b-07-07-439415d3f3e2.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_b-07-07-439415d3f3e2.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_b-07-07-439415d3f3e2.jpg",
+      "bytes": 343597,
+      "sha256": "439415d3f3e25ce9ea6b4647f1ed7a166dd84a0dd27a56ac094a88370da466f6"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_b-08-37-a117c960e5e3.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_b-08-37-a117c960e5e3.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_b-08-37-a117c960e5e3.jpg",
+      "bytes": 396927,
+      "sha256": "a117c960e5e3867a28240cced51c90575b63bcf9e21fff109a950de577cb8d99"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-11/2026-09-11-account_b-10-07-0dbb4fc7eb53.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-11/2026-09-11-account_b-10-07-0dbb4fc7eb53.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-11__2026-09-11-account_b-10-07-0dbb4fc7eb53.jpg",
+      "bytes": 301545,
+      "sha256": "0dbb4fc7eb538fc8a41771570261998889f336c512f5391b81015381ead89005"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-12/2026-09-12-account_a-10-07-44092552838a.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-12/2026-09-12-account_a-10-07-44092552838a.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-12__2026-09-12-account_a-10-07-44092552838a.jpg",
+      "bytes": 286171,
+      "sha256": "44092552838aaf55c86290bcc9804b8e65604bbb098c8737651eea1084d7a27d"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-12/2026-09-12-account_a-10-07-b294234de92c.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-12/2026-09-12-account_a-10-07-b294234de92c.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-12__2026-09-12-account_a-10-07-b294234de92c.jpg",
+      "bytes": 235867,
+      "sha256": "b294234de92c209b7356ed93748317f15ddd2214f054b5eb42c5948d6f0edfd6"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-12/2026-09-12-account_b-10-07-855f42f5a3ff.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-12/2026-09-12-account_b-10-07-855f42f5a3ff.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-12__2026-09-12-account_b-10-07-855f42f5a3ff.jpg",
+      "bytes": 262041,
+      "sha256": "855f42f5a3fff9e6c79fcd569dbe8c46e2f8ef2ccc8c06288cb994459f8e9106"
+    },
+    {
+      "bucket": "instagram-japan-travel-images",
+      "original_key": "instagram/2026-09-12/2026-09-12-account_b-10-07-ee62bb89d04e.jpg",
+      "original_public_url": "https://img.autumnkyoto.com/instagram/2026-09-12/2026-09-12-account_b-10-07-ee62bb89d04e.jpg",
+      "repository_path": "assets/instagram-japan-travel-images/instagram__2026-09-12__2026-09-12-account_b-10-07-ee62bb89d04e.jpg",
+      "bytes": 309402,
+      "sha256": "ee62bb89d04e7aaa7574cb387d5a341004f5f9c8789b199ade079e5e2249eb21"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_a/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_a/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_a__01.png",
+      "bytes": 2235702,
+      "sha256": "cacb491580bdbc2832d04c30036eb3fbe14c8310e3ead65d3d7e1026108c3042"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_a/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_a/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_a__04.png",
+      "bytes": 2317237,
+      "sha256": "dc706a24fecd9b63eba99cf29c5603381c8afa2f3cf31c51625135aec02066a6"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_a/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_a/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_a__07.png",
+      "bytes": 2164949,
+      "sha256": "326f13898430ce5d1e2ce1c2cd544e41b7f71ed49fb15b586cf3e6cdd8a485e1"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_b/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_b/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_b__01.png",
+      "bytes": 2230277,
+      "sha256": "d450a2abe66c488734bad16d9968c7b4bd0e55403cf65f3aaa56e88358e67c35"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_b/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_b/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_b__04.png",
+      "bytes": 2115136,
+      "sha256": "ae00ff40d0cdc0b2715f38ef439a92aa5c212acbd5877e7b4f5d3e0870428b5b"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-23/account_b/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-23/account_b/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-23__account_b__07.png",
+      "bytes": 2353197,
+      "sha256": "8b724c8c58225cbefe23f33fe9de36b0802e4944b133cdf155ecc0adf76ce246"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_a/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_a/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_a__01.png",
+      "bytes": 2498033,
+      "sha256": "a10fc11c3ae44a9feed4d5229c5cb074027f22c084493227479138684f27ade6"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_a/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_a/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_a__04.png",
+      "bytes": 2258248,
+      "sha256": "f83e93e551d29b59f527f682f7b81f1903184c97d8404fff863015e6c3c475f9"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_a/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_a/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_a__07.png",
+      "bytes": 2038282,
+      "sha256": "8d7da68239940fab6a34c0ef10a39b5e0efff8ddc94188ba4dd29facbf7450bf"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_b/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_b/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_b__01.png",
+      "bytes": 2244178,
+      "sha256": "96f40bac6a52f6af4b599d075c0fe4fb29eb7d995d99563d6808fe290f775fc9"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_b/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_b/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_b__04.png",
+      "bytes": 2719584,
+      "sha256": "f6e7cace40fa0876438ffecb7fe02918e305bae15bcefd1c40192a7fde638d26"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-24/account_b/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-24/account_b/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-24__account_b__07.png",
+      "bytes": 1818792,
+      "sha256": "4c732ee38a3a95db4deae79d8dee9ea482e803290ff329f5311c221d28620a29"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_a/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_a/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_a__01.png",
+      "bytes": 2272206,
+      "sha256": "bef5a33de07a410a692980ded49ec38454c2d6ba4a0ea72e68e1d50e534b44d5"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_a/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_a/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_a__04.png",
+      "bytes": 2266519,
+      "sha256": "fc8c1bcd11a439d44c8da54cf9c8f44793cdf36d76b0345f20fe610fcd39196f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_a/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_a/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_a__07.png",
+      "bytes": 2551713,
+      "sha256": "0cd129438757f95a95f81c79dd74365a1165292e3fd458845388af57e91bbbae"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_b/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_b/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_b__01.png",
+      "bytes": 2248991,
+      "sha256": "6f44230bc6393f68496b92c119884fd4504253c163f2b8da6b5a134f5898ffac"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_b/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_b/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_b__04.png",
+      "bytes": 2324623,
+      "sha256": "631e401cecd57662bb3d58be180dad984a9b801d301eac8fc04a355b66380de4"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-25/account_b/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-25/account_b/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-25__account_b__07.png",
+      "bytes": 2676198,
+      "sha256": "240f700ca372c47fdbb5bc395ea2dc0d194b4b3864c6658649315f08a15ef733"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/01-1-1f017617ab98.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/01-1-1f017617ab98.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__01-1-1f017617ab98.png",
+      "bytes": 2702561,
+      "sha256": "1f017617ab987970dd12b006e9c1def226170471b7bdf788b7bd3e9d671b3456"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__01.png",
+      "bytes": 2436609,
+      "sha256": "0b65e998b5574a6399a7b6d1498ad2f21c216691ec2c46f66ad04d2c7e4152ba"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/04-1-857b19b114c6.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/04-1-857b19b114c6.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__04-1-857b19b114c6.png",
+      "bytes": 2272755,
+      "sha256": "857b19b114c607f5712c2d229405eac428748345873553a56ce65f6c568932fd"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__04.png",
+      "bytes": 2506900,
+      "sha256": "9b15ce084d63d2eecb41efedc6bf62b11fad2c72e07c14d3350764e7c21f8704"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/07-1-85f76b9d1cc6.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/07-1-85f76b9d1cc6.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__07-1-85f76b9d1cc6.png",
+      "bytes": 1940688,
+      "sha256": "85f76b9d1cc6a4451d92d56c8a7940a60cb80dc3e7a5258922fab3bc97453399"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_a/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_a/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_a__07.png",
+      "bytes": 2203672,
+      "sha256": "6534419d32d0d3a4e2744a9db678836d7bcbd10349f6fff8e0a830eb94c35830"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/01-1-79b7fb347c4b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/01-1-79b7fb347c4b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__01-1-79b7fb347c4b.png",
+      "bytes": 2588916,
+      "sha256": "79b7fb347c4bab56dfd8a2c1a5cae4ea863b23a5a539f61cd4e933179844cfd9"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/01.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/01.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__01.png",
+      "bytes": 2245474,
+      "sha256": "39351e1cf66458b654f55e596ef6af277fd8f94439edb7b61818e4d5d0e60d00"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/04-1-433bb736d878.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/04-1-433bb736d878.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__04-1-433bb736d878.png",
+      "bytes": 1875423,
+      "sha256": "433bb736d878a2808e6c8613e9b4d563bb9498fb7659acbfba68145522640b19"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/04.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/04.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__04.png",
+      "bytes": 2236052,
+      "sha256": "ff72d96579f4f35139ca664affc7f73c3952ae4f89995ffd94fbfb119bae9cb0"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/07-1-c1229fed2019.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/07-1-c1229fed2019.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__07-1-c1229fed2019.png",
+      "bytes": 2060389,
+      "sha256": "c1229fed20198225b418213ad4920a9affc78cac76ce41f5ea56937666a57af4"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-26/account_b/07.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-26/account_b/07.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-26__account_b__07.png",
+      "bytes": 1734856,
+      "sha256": "d9f26cdeaf55b2cef47a4b41bba96663f372f51fb7aa79865533f3a8fc119c6c"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/01-276b293465c0.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/01-276b293465c0.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__01-276b293465c0.png",
+      "bytes": 1661703,
+      "sha256": "276b293465c08439a1b77fb6d694148664601bcc60e1da462ff8cc407fa9dac6"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/01-451d116091fc.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/01-451d116091fc.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__01-451d116091fc.png",
+      "bytes": 1801179,
+      "sha256": "451d116091fc345dc4bec90f3b31f6f3a74a14af38f15b23fb496e4fc22bcd2b"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/02-1b57bd005d66.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/02-1b57bd005d66.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__02-1b57bd005d66.png",
+      "bytes": 1706054,
+      "sha256": "1b57bd005d66f8cc9d83ee238c6c91947bd389896a3d8d1e4d5364a0cb49498f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/02-261ad093f02e.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/02-261ad093f02e.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__02-261ad093f02e.png",
+      "bytes": 2387163,
+      "sha256": "261ad093f02e78c205e276f5334cf9b41319bded9a5790c739573a71e11398c8"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/03-22cd8786b3ac.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/03-22cd8786b3ac.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__03-22cd8786b3ac.png",
+      "bytes": 2060964,
+      "sha256": "22cd8786b3ac9c3527c957f3958a39f0d4cc71c98bca72aa2a10835e3b188541"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/03-676f53761c09.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/03-676f53761c09.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__03-676f53761c09.png",
+      "bytes": 1856597,
+      "sha256": "676f53761c09216665c57a85a32d2c268897d155932841909325f8fde8a68651"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/04-ec1b45e89010.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/04-ec1b45e89010.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__04-ec1b45e89010.png",
+      "bytes": 1605837,
+      "sha256": "ec1b45e8901020769ebdba19e2ac38e6604f6861a4e6b0c49acf61f9578fe925"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/04-f53e7fb1eb9d.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/04-f53e7fb1eb9d.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__04-f53e7fb1eb9d.png",
+      "bytes": 1935186,
+      "sha256": "f53e7fb1eb9d88e2192766950fd965544a1dbe1ada405973d82b5cef5732592b"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/05-8e74f106e1c5.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/05-8e74f106e1c5.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__05-8e74f106e1c5.png",
+      "bytes": 1985416,
+      "sha256": "8e74f106e1c51f5a72192d3e9f0e8c40c6f5664c96c0626f04969b7c9031dff7"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_a/05-ba8d8d5c51e9.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_a/05-ba8d8d5c51e9.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_a__05-ba8d8d5c51e9.png",
+      "bytes": 1749720,
+      "sha256": "ba8d8d5c51e94c8134137650ec6f1919b6080a7c33594ade84d782de2b2d9fb3"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/01-26be55a2d175.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/01-26be55a2d175.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__01-26be55a2d175.png",
+      "bytes": 1921672,
+      "sha256": "26be55a2d1750b59e5fd3c412ceaab64620984235a5a0b2cc7f2cbc4846fbc7f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/01-aeff4e5bd419.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/01-aeff4e5bd419.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__01-aeff4e5bd419.png",
+      "bytes": 2037949,
+      "sha256": "aeff4e5bd41971427ed1caa510ef8218149b9335e290317d31d914f412fc7533"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/02-3bdf451291d8.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/02-3bdf451291d8.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__02-3bdf451291d8.png",
+      "bytes": 1745165,
+      "sha256": "3bdf451291d8f2f257e700b4addf435e56dc9f66e4043b4b020fb84c2b5662fb"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/02-c6a7b1e5781c.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/02-c6a7b1e5781c.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__02-c6a7b1e5781c.png",
+      "bytes": 1897695,
+      "sha256": "c6a7b1e5781c4969379cf1f60e29882a3c3fe587310765db7e0bf9c84b369f12"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/03-c38f378c025f.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/03-c38f378c025f.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__03-c38f378c025f.png",
+      "bytes": 2088471,
+      "sha256": "c38f378c025fa4dfa9a5775d6bc7e84599df85964f63d5346aca43d15bbe449d"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/04-5b3b94318c67.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/04-5b3b94318c67.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__04-5b3b94318c67.png",
+      "bytes": 1265930,
+      "sha256": "5b3b94318c67ed007d0bbdd98b43503bae2968062728c6424fc1041052fb1527"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-27/account_b/05-18f1d06eb873.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-27/account_b/05-18f1d06eb873.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-27__account_b__05-18f1d06eb873.png",
+      "bytes": 1835712,
+      "sha256": "18f1d06eb873547ccd248bb043f222af02d8f467499b2d9086ae265529ea365e"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_a/01-b5fedb789fc0.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_a/01-b5fedb789fc0.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_a__01-b5fedb789fc0.png",
+      "bytes": 2809319,
+      "sha256": "b5fedb789fc03f72c4983f14f4d784ae2990da424f37cce05675d507fe2d397e"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_a/02-4829d0efa4d8.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_a/02-4829d0efa4d8.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_a__02-4829d0efa4d8.png",
+      "bytes": 1422178,
+      "sha256": "4829d0efa4d8b94aef6b4aa24d691e8fa374e64c1b4f2b36282a189c0f2e0413"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_a/03-463a9ae73865.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_a/03-463a9ae73865.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_a__03-463a9ae73865.png",
+      "bytes": 1548821,
+      "sha256": "463a9ae7386558a687d0fc3e3493c665d71d1344b139d615669261ae91d56669"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_a/04-bd73872c1c21.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_a/04-bd73872c1c21.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_a__04-bd73872c1c21.png",
+      "bytes": 1772981,
+      "sha256": "bd73872c1c212a88fda950e6643d61ad75de5a8e31d35f5f3a6f32e2206d793f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_a/05-a1e055f9b53b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_a/05-a1e055f9b53b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_a__05-a1e055f9b53b.png",
+      "bytes": 1678302,
+      "sha256": "a1e055f9b53ba557bd771cfc0edc9271bf1fb13b6390f3cfc0b04ad4bb8a7d13"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_b/01-b3db3a6e427b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_b/01-b3db3a6e427b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_b__01-b3db3a6e427b.png",
+      "bytes": 1903472,
+      "sha256": "b3db3a6e427b8e5a28b02bf838597225e956c1b8c308abb880cd3d2f9bb8c974"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_b/02-1d4940760100.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_b/02-1d4940760100.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_b__02-1d4940760100.png",
+      "bytes": 1962487,
+      "sha256": "1d494076010062dccb12af3779e883c43dd3fbc3601c8161ba4426193a763569"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_b/03-15e023c081fe.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_b/03-15e023c081fe.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_b__03-15e023c081fe.png",
+      "bytes": 2090333,
+      "sha256": "15e023c081fef1a37012f2d528fa68aeb0ed9abc7471eff4735be0bd2978958d"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_b/04-8f8da5806f4a.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_b/04-8f8da5806f4a.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_b__04-8f8da5806f4a.png",
+      "bytes": 1378970,
+      "sha256": "8f8da5806f4a5f846ea7f0de1571791f52f1ec8d4564bae9378ba631185fbebd"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-28/account_b/05-067562f9d0e4.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-28/account_b/05-067562f9d0e4.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-28__account_b__05-067562f9d0e4.png",
+      "bytes": 2071929,
+      "sha256": "067562f9d0e4c99ebb62f342af8a79bcb9d25d3afc08c5d48c64a5f8983f9b91"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-29/account_a/951-3ca0c0d027b5.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-29/account_a/951-3ca0c0d027b5.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-29__account_a__951-3ca0c0d027b5.png",
+      "bytes": 2304372,
+      "sha256": "3ca0c0d027b501a7f484ebb6eb7c0e90a64bb365447efc4945ea1ef2b3be5663"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-08-29/account_b/951-8f49597b65dc.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-08-29/account_b/951-8f49597b65dc.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-08-29__account_b__951-8f49597b65dc.png",
+      "bytes": 1543401,
+      "sha256": "8f49597b65dcd243079390a07d3821492d466df85f3384a6dfb2c0a79894b941"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/01-337bbab84b77.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/01-337bbab84b77.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__01-337bbab84b77.png",
+      "bytes": 2738463,
+      "sha256": "337bbab84b7741ccec5a92683199f638ce85e00c3c6a828f99f7df535a1a56d4"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/02-4bc5903caec1.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/02-4bc5903caec1.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__02-4bc5903caec1.png",
+      "bytes": 2458812,
+      "sha256": "4bc5903caec133223b300f7512921d07bdb840a843f6d7ef72c898c6ce109821"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/02-ab4c6dee5833.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/02-ab4c6dee5833.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__02-ab4c6dee5833.png",
+      "bytes": 2484453,
+      "sha256": "ab4c6dee583349b962b8078a3b1db99940c2e9ba76bc198198a8bd5359664757"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/03-84fae480011f.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/03-84fae480011f.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__03-84fae480011f.png",
+      "bytes": 1943341,
+      "sha256": "84fae480011fb6554cb79136d03123426d33ef32486169f9a541f73de4661fad"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/04-96ac1410040e.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/04-96ac1410040e.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__04-96ac1410040e.png",
+      "bytes": 1752397,
+      "sha256": "96ac1410040ef99b6b94d4f969ff03ced1bfe21d1f1e787e848c52d197d07df5"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/05-67cb0f49c59a.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/05-67cb0f49c59a.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__05-67cb0f49c59a.png",
+      "bytes": 1569608,
+      "sha256": "67cb0f49c59afc1fb3097b6c1f2577b1af246c33dab20707b17075617b4000a3"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/05-a6a47a4b1fa3.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/05-a6a47a4b1fa3.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__05-a6a47a4b1fa3.png",
+      "bytes": 3032932,
+      "sha256": "a6a47a4b1fa37d6bba8d01961368b19a73b1f5e9298944d7d0aa1dff742632d4"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/05-bd1c69a2b7a3.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/05-bd1c69a2b7a3.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__05-bd1c69a2b7a3.png",
+      "bytes": 2874920,
+      "sha256": "bd1c69a2b7a39fe72a525149fbff93fb0ca395e299330db90e09e6d33fc6518b"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_a/05-e8fd92e9fe86.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_a/05-e8fd92e9fe86.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_a__05-e8fd92e9fe86.png",
+      "bytes": 2899044,
+      "sha256": "e8fd92e9fe8684c0c0dc9d2b71ead08236a8d10cd5486f230d83ab1fce449716"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_b/02-b7e1fdb9bf6b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_b/02-b7e1fdb9bf6b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_b__02-b7e1fdb9bf6b.png",
+      "bytes": 2834218,
+      "sha256": "b7e1fdb9bf6b8972eebc178e723f3f6926827fc1c88a3ce8dd5c47918420b51c"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_b/02-bc63b01f7dc5.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_b/02-bc63b01f7dc5.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_b__02-bc63b01f7dc5.png",
+      "bytes": 2319490,
+      "sha256": "bc63b01f7dc507057567e10680c1208c444e21c9eb5dc4f6c3f2785929e003ca"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_b/03-23c788a87207.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_b/03-23c788a87207.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_b__03-23c788a87207.png",
+      "bytes": 2288364,
+      "sha256": "23c788a87207c4313293a3b1f310fab7088d46f744c3c931098b3e7dbf7f6402"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_b/04-f86837fa0279.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_b/04-f86837fa0279.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_b__04-f86837fa0279.png",
+      "bytes": 2504884,
+      "sha256": "f86837fa0279164707eb3ff41d9601b5aeb3e4fdc3130af66053923dfa753013"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-02/account_b/05-716ef4d746ec.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-02/account_b/05-716ef4d746ec.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-02__account_b__05-716ef4d746ec.png",
+      "bytes": 1902998,
+      "sha256": "716ef4d746ec8bb472c8341cc26131547d1e1dc8a77034a8f33f1ae6b20afd37"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/01-4333602d7137.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/01-4333602d7137.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__01-4333602d7137.png",
+      "bytes": 1942399,
+      "sha256": "4333602d71375c063f1feab21b9ae795a5af87c29f27acf6d3eb41868156838f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/02-418b394252e1.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/02-418b394252e1.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__02-418b394252e1.png",
+      "bytes": 2110160,
+      "sha256": "418b394252e13f881354825f7e49ac5709757b6abe25a097b34b9dee41cded31"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/03-60e1cb454fe6.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/03-60e1cb454fe6.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__03-60e1cb454fe6.png",
+      "bytes": 1545483,
+      "sha256": "60e1cb454fe61d31403b13255f82c2ca243c78749441f3b41b032c898bc1c0df"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/03-aded4ff1e738.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/03-aded4ff1e738.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__03-aded4ff1e738.png",
+      "bytes": 2357177,
+      "sha256": "aded4ff1e738fee33a738c469761d00d1e5e34f60908f836529dbe25de325020"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/04-198ffa3d43cd.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/04-198ffa3d43cd.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__04-198ffa3d43cd.png",
+      "bytes": 1723210,
+      "sha256": "198ffa3d43cd30c44d08d9a33fb005fcc309092ca36dd24bb1935c1436071b38"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/05-418f0cd412d7.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/05-418f0cd412d7.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__05-418f0cd412d7.png",
+      "bytes": 1848062,
+      "sha256": "418f0cd412d749dc3c06a9380078bbb807f349ede2e55fb3261a7a401474c238"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_a/05-633a1f06f95a.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_a/05-633a1f06f95a.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_a__05-633a1f06f95a.png",
+      "bytes": 2354900,
+      "sha256": "633a1f06f95a0fa2595f5f09f81ae83cb3c8b97caafdc24582dd9f6eb1ce0b1e"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/01-7ab9e17fcfbf.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/01-7ab9e17fcfbf.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__01-7ab9e17fcfbf.png",
+      "bytes": 2325131,
+      "sha256": "7ab9e17fcfbfdab43d6e4b36548a97e8bd01c9c45377d4aa1c7774955ba56640"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/02-cdf1094d72b1.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/02-cdf1094d72b1.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__02-cdf1094d72b1.png",
+      "bytes": 2300700,
+      "sha256": "cdf1094d72b100cde42c8eabc926182e7baf1efca48bbebc8ed4fbe25578df65"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/03-11ea993daa14.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/03-11ea993daa14.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__03-11ea993daa14.png",
+      "bytes": 2080819,
+      "sha256": "11ea993daa1492bd9ae72ff85b6f346b25283a9659a2041514c96ca4cfcbd240"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/03-3e89686f8f48.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/03-3e89686f8f48.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__03-3e89686f8f48.png",
+      "bytes": 1976341,
+      "sha256": "3e89686f8f4850df4dda13a6abba180d76b6853d6856a3ddc5088affec3eb71f"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/04-8a81c5a15593.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/04-8a81c5a15593.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__04-8a81c5a15593.png",
+      "bytes": 1542504,
+      "sha256": "8a81c5a155930d0e8096d34fada5d73e4a89b28063e350f9a7561a3d0c4a7045"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-03/account_b/05-f7dc32d3410e.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-03/account_b/05-f7dc32d3410e.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-03__account_b__05-f7dc32d3410e.png",
+      "bytes": 2352817,
+      "sha256": "f7dc32d3410e8a397de91fa4f9b992c9ea7c7e11a33bdbb884ff7e68371db7d1"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/01-3d7e8dd30f27.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/01-3d7e8dd30f27.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__01-3d7e8dd30f27.png",
+      "bytes": 1996895,
+      "sha256": "3d7e8dd30f27fec71fd2208da7c819cca420c8014c58b4cb9c7bbd64321e708b"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/02-e8ecb6d112a2.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/02-e8ecb6d112a2.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__02-e8ecb6d112a2.png",
+      "bytes": 1791303,
+      "sha256": "e8ecb6d112a2e41ccfd6cc4d0b521edb2994ccb9f7df4db9195cd0a710d31eda"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/03-635259e2752b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/03-635259e2752b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__03-635259e2752b.png",
+      "bytes": 2162340,
+      "sha256": "635259e2752bf5f0eac16b4b80e37575d3aff6fce84ff71d8ba6043022597e15"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/04-ccd258329888.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/04-ccd258329888.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__04-ccd258329888.png",
+      "bytes": 1784493,
+      "sha256": "ccd2583298884755f6bed819b107199a2df618ce2fc2c0ef335c958538c335fd"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/05-579c37903e1b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/05-579c37903e1b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__05-579c37903e1b.png",
+      "bytes": 2416006,
+      "sha256": "579c37903e1b2c6f5582f8077e16b89593f7a885ed92b9c624befc6a7a9b1a1c"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_a/05-ef033cd5bd2d.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_a/05-ef033cd5bd2d.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_a__05-ef033cd5bd2d.png",
+      "bytes": 2479979,
+      "sha256": "ef033cd5bd2d8c47cc64009df1222ad21570078e9c3faa5fa777560c80246948"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/01-9b8bb6b8ed86.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/01-9b8bb6b8ed86.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__01-9b8bb6b8ed86.png",
+      "bytes": 1680770,
+      "sha256": "9b8bb6b8ed866ee63e9fec2ef1024638cfdb27642f052c839d5ff9401208715c"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/02-221e0f50fcb8.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/02-221e0f50fcb8.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__02-221e0f50fcb8.png",
+      "bytes": 2157226,
+      "sha256": "221e0f50fcb8ebb80706d90865adfc4865973e14aecce34627c99bf587fbf2b1"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/03-08548cf4906b.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/03-08548cf4906b.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__03-08548cf4906b.png",
+      "bytes": 2031340,
+      "sha256": "08548cf4906ba03fb41304df21f39515d7619db914677b9b9e6af03d51026cf5"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/03-8a4b430452f2.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/03-8a4b430452f2.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__03-8a4b430452f2.png",
+      "bytes": 1949298,
+      "sha256": "8a4b430452f2012b04474bad72812d2e6ddab61f36524a19e291a37c1c054a6a"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/04-ebe8f6572a46.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/04-ebe8f6572a46.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__04-ebe8f6572a46.png",
+      "bytes": 1394727,
+      "sha256": "ebe8f6572a465154f22fe396ef6bf5150f2022bf5a20e7d2910fa7a95299b1cb"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/05-0dc94428a6f3.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/05-0dc94428a6f3.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__05-0dc94428a6f3.png",
+      "bytes": 1761494,
+      "sha256": "0dc94428a6f361397d9e1714f67d3e92122f8ae7b8630282bd090802cbb7eaf4"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/2026-09-04/account_b/05-fdace1b89d61.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/2026-09-04/account_b/05-fdace1b89d61.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__2026-09-04__account_b__05-fdace1b89d61.png",
+      "bytes": 1697844,
+      "sha256": "fdace1b89d619d0b0654918783a66167081895c1be9751b01cb7cbc5c2449d1d"
+    },
+    {
+      "bucket": "threads-japan-affiliate-images",
+      "original_key": "threads/test/2026-08-29/account_b/952-2aff922fba69.png",
+      "original_public_url": "https://img.autumnjapan.com/threads/test/2026-08-29/account_b/952-2aff922fba69.png",
+      "repository_path": "assets/threads-japan-affiliate-images/threads__test__2026-08-29__account_b__952-2aff922fba69.png",
+      "bytes": 3343312,
+      "sha256": "2aff922fba69ebd7adfe31c48b8b28d289fbc6a99934e6d37d9d9ea495d5e4d2"
+    }
+  ]
+}
