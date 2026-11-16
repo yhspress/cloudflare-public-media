@@ -1,0 +1,13 @@
+{
+  "date_kst": "2026-11-16",
+  "objects": 266,
+  "original_bytes": 272559595,
+  "github_byte_verification": 266,
+  "original_url_redirects_verified": 266,
+  "http_200_images": 266,
+  "sha256_matches": 266,
+  "image_commit": "382138fd26c2f97c7c38f3e4c2f4453093187e3f",
+  "r2_deletion": "not_performed_pending_action_time_confirmation",
+  "redirect_status": 302,
+  "rollback": "Disable only the public_media_github_20261116 rule while source objects still exist. After source deletion, restore exact files and keys from manifest before disabling the rule."
+}
